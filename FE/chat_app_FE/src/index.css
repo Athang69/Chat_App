@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme{
+  --color-chat_ui_bg:#f7f7f8;
+  --color-chat_text:#f7f7f8;
+  --color-send:#f7f7f8;
+  --color-chat_bg:#3794bc;
+  --color-sidebar_bg:#1F6E8C;
+}
